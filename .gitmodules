@@ -1,3 +1,9 @@
 [submodule "control/control/mpc.pytorch"]
 	path = control/control/mpc.pytorch
 	url = https://github.com/locuslab/mpc.pytorch.git
+[submodule "dreamer"]
+	path = dreamer
+	url = https://github.com/jyx11011/dreamer.git
+[submodule "mpc.pytorch"]
+	path = mpc.pytorch
+	url = https://github.com/jyx11011/mpc.pytorch.git
